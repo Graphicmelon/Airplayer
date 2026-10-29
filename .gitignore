@@ -1,0 +1,6 @@
+.build/
+dist/
+.DS_Store
+Vendor/UxPlay/.git/
+__pycache__/
+*.pyc

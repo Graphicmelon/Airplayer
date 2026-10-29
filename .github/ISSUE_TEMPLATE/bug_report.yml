@@ -1,0 +1,22 @@
+name: Bug report
+description: Report a reproducible Airplayer problem.
+body:
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment
+      description: Airplayer version, Mac model, macOS version, sender model and OS, display refresh rate, and network type.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Steps to reproduce
+      description: Include what you expected and what actually happened.
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs or screenshots
+      description: Remove device names, addresses, and other personal information before sharing.
