@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="docs/images/app-icon.png" width="112" height="112" alt="">
+
 # Airplayer
 
 **Your screen. On your Mac.**

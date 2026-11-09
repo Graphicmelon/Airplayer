@@ -1,3 +1,5 @@
+<img src="images/app-icon.png" width="112" height="112" alt="">
+
 # Airplayer
 
 **把你的屏幕，投到 Mac 上。**
