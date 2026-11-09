@@ -1,3 +1,5 @@
+<div align="center">
+
 <img src="images/app-icon.png" width="112" height="112" alt="">
 
 # Airplayer
@@ -8,7 +10,9 @@
 
 [下载](https://github.com/Graphicmelon/Airplayer/releases) · [English](../README.md) · [开发文档](DEVELOPMENT.md)
 
-![Airplayer 等待连接界面](images/preview.png)
+<img src="images/preview.png" width="800" alt="Airplayer 等待连接界面">
+
+</div>
 
 ## 特点
 
